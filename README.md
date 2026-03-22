@@ -1,4 +1,6 @@
-# Tarefa de Sistemas Operacionais - Exercícios com Estrutura de Decisão
+# Tarefa de SO - Exercícios com Estrutura de Decisão
+
+> Autor: Thiago dos Santos Moreira
 
 18.	Receba 2 valores inteiros. Calcule e mostre o resultado da diferença do maior pelo menor valor.
 19.	Receba 2 valores reais. Calcule e mostre o maior deles.
