@@ -2,6 +2,7 @@ import math;
 
 a: float = 0;
 b: float = 0;
+c: float = 0;
 delta: float = 0;
 x1: float = 0;
 x2: float = 0;
