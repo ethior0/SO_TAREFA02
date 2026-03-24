@@ -1,5 +1,3 @@
-# Talvez eu precise revisar esse
-
 import math;
 
 a: float = 0;
